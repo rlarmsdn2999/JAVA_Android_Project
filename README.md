@@ -35,6 +35,7 @@
 
 ##### 3)DataBase 구축 명세
 -DataBase : Oracle DataBase version 11g
+
 -server : 학습용 노트북
 
 #### C.Application 설계
@@ -49,12 +50,16 @@
 
 #### D.개발환경
 -사용언어 : Java(JDK17), SQL
+
 -Database : Oracle Database 11g
+
 -개발도구 : Android Studio 2022.3.1.Patch2, DBeaver
 
 #### E.App테스트 및 검증
 -Unit Testing :  액티비티 클래스 코드 작성시, 이전 액티비티에서 intent로 넘겨 받은 값을 임의의 textView에 출력하여, 정상적으로 값을 받아오는지 확인함. - Embedded SQL을 작성전, Oracle SQL Developer에서 SQL문을 실행하여 결과값을 확인함
+
 -Integration Testing :  테스트용 사용자 데이터를 생성하여 전체적인 기능을 시연함
+
 -Peer Testing :  스터디그룹 맴버에게 코드 검토, 버그 식별 등을 의뢰하고 피드백을 받음
 
 ### 3.결론
