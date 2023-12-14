@@ -28,3 +28,7 @@
 
 ![4](images/4.PNG)
 ![5](images/5.PNG)
+
+-reservation : 예약관리 테이블
+
+![6](images/6.PNG)
