@@ -18,3 +18,6 @@
 #### B.데이터모델링
 ##### 1)ERD 다이어그램
 ![2](images/2.PNG)
+
+##### 2)Table Detail
+![3](images/3.PNG)
